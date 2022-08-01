@@ -13,6 +13,12 @@ public class DemoGit
 		System.out.println("m2 start");
 		
 	}
+	
+	public void m3 ()
+	{
+		
+	}
+	
 	public static void main(String[] args) 
 	{
 		System.out.println("GIT");
