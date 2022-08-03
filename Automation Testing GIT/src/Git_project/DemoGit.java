@@ -16,7 +16,7 @@ public class DemoGit
 	
 	public void m3 ()
 	{
-		
+	System.out.println("m3start");	
 	}
 	
 	public static void main(String[] args) 
